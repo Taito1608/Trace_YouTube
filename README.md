@@ -1,6 +1,7 @@
 # youtube_trace
 
-A new Flutter project.
+Flutterを用いたYouTube画面のトレース
+初めてのFlutterでの画面作成
 
 ## Getting Started
 
